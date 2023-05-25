@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shell Isaiah</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h3 align="center">A passionate Mobile developer</h3>
 
 - 🌱 I’m currently learning **Dart/Flutter/Firebase**
 
