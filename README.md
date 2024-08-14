@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shell Isaiah</h1>
 <h3 align="center">A passionate Mobile developer</h3>
 
-- 🌱 I’m currently working with **Dart/Flutter/Firebase**
-
-- 👯 I’m looking to collaborate on **on any project related to my field**
+- 🌱 Development tools  **Dart/Flutter/Firebase/git(github)/postman**
 
 - 💬 Ask me about **Dart Flutter Firebase**
 
