@@ -5,8 +5,6 @@
 
 - 👯 I’m looking to collaborate on **on any project related to my field**
 
-- 👨‍💻 All of my projects are available at [https://isaiah-portfolio-8bi6.vercel.app/](https://isaiah-portfolio-8bi6.vercel.app/)
-
 - 💬 Ask me about **Dart Flutter Firebase**
 
 - 📫 How to reach me **isaiahshell2019@gmail.com**
