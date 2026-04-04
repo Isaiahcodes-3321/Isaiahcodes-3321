@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shell Isaiah</h1>
-<h3 align="center">A passionate Mobile developer</h3>
+<h3 align="center">A passionate FrontEnd developer</h3>
 
-- 🌱 Development tools  **Dart/Flutter/Firebase/git(github)/postman**
+- 🌱### 🛠️ Development Tools
+* **Mobile:** Dart, Flutter, Firebase
+* **Web:** HTML5, CSS3, JavaScript (ES6+), React
+* **General:** Git, GitHub, Postman
 
 - 💬 Ask me about **Dart Flutter Firebase**
 
